@@ -1,2 +1,4 @@
-# K19TG
-Internet Programming
+# ONLINE PIZZA ORDERING-Project
+Online Pizza Ordering Website - JavaScript and Google Map API
+
+
